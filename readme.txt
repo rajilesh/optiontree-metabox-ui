@@ -4,7 +4,7 @@ Contributors: Rajilesh Panoli
 
 Donate link: http://rajilesh.in/metaboxui-for-optiontree-wordpress-plugin/donations/
 
-Tags: optiontree, custom fields, metabox, widget, create widget, create custom widget
+Tags: optiontree, custom fields, metabox, widget, create widget, create custom widgetc
 
 Requires at least: 3.0.1
 
